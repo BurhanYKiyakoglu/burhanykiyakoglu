@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burhan Y. Kiyakoglu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Data+Scientist+at+SabancıDx;PhD+Candidate+at+Kadir+Has+University&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Management+Lead+at+Takeda;PhD+Candidate+at+Kadir+Has+University&center=true&width=500&height=50"></a>
 </p>
 
 - 🔭 Currently working and 👯 looking to collaborate on **Customer & Behavioral Analytics**
